@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">emprego-livre</string>
+    <string name="app_name" translatable="false">Emprego Livre</string>
+   />
 </resources>
